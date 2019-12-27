@@ -1,0 +1,1 @@
+web: gunicorn political-analysis.wsgi --log-file - 
