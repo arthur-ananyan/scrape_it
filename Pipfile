@@ -15,6 +15,7 @@ django-crispy-forms = "*"
 django-widget-tweaks = "*"
 gunicorn = "*"
 psycopg2-binary = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.7"
